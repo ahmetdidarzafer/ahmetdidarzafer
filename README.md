@@ -4,7 +4,8 @@
 <h3 align="left">I am a Fullstack Developer and last year student in Electrical & Electronics Engineering.</h3>
 
 <h3 align="left">Reach me:</h3>
-📫 ahmetdidarzafer@gmail.com
+<a href="mailto:ahmetdidarzafer@gmail.com">📫 ahmetdidarzafer@gmail.com</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
